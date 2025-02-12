@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://roylee.coding.net/p/moosic/d/Moosic/git/raw/master/Moosic.ipa</string>
+                    <string>https://github.com/liangdrime/Applications/raw/refs/heads/main/Moosic/Moosic.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
